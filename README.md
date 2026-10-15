@@ -1,4 +1,4 @@
-# Sergei
+# Sergey
 
 **DevOps Engineer** | Moscow
 
@@ -31,4 +31,4 @@ I specialize in automation, CI/CD pipeline development, Infrastructure as Code (
 
 ## Contact
 - **Telegram**: [@devr3zzka](https://t.me/d3vrezzka)
-- **LinkedIn**: [sergey-oskin](www.linkedin.com/in/sergey-oskin)
+- **LinkedIn**: [Sergey Oskin](https://linkedin.com/in/sergey-oskin)
