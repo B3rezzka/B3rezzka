@@ -1,16 +1,22 @@
 # Sergei
 
-**DevOps Engineer** | Moscow, Remote
+**DevOps Engineer** | Moscow
 
 I specialize in automation, CI/CD pipeline development, Infrastructure as Code (IaC), and system reliability.
 
 ## Technical Stack
 | **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
+
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) |
+
 | **Containerization & Orchestration** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) |
+
 | **IaC & Configuration Management** | ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white) |
+
 | **CI/CD** | ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white) |
+
 | **Monitoring & Observability** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white) |
+
 | **Networking & Web Servers** | Nginx, HAProxy, TCP/IP, DNS, TLS/SSL |
 
 ## Featured Projects
@@ -25,4 +31,4 @@ I specialize in automation, CI/CD pipeline development, Infrastructure as Code (
 
 ## Contact
 - **Telegram**: [@devr3zzka](https://t.me/d3vrezzka)
-- **LinkedIn**: [sergey-oskin-b349253bb](www.linkedin.com/in/sergey-oskin-b349253bb)
+- **LinkedIn**: [sergey-oskin](www.linkedin.com/in/sergey-oskin-b349253bb)
